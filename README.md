@@ -126,14 +126,6 @@ These are senior-level engineering concerns.
 
 ---
 
-## Author
-
-**Alejandro Adrián Duhalde**  
-Cloud & Data Engineer | Serverless Architect  
-Python · Azure · AWS · Event-Driven Systems  
-
----
-
 ## ⚠️ Note
 
 This repository is a conceptual and architectural showcase.  
